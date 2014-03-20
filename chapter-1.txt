@@ -3,7 +3,7 @@
 - mikroskopický kanárci! tahle přiručka je opravdová ukázka života!
 
 - živý přenos z roku 2012
-- díky Whyově důvtipné příričce...
+- díky Whyově důvtipné příručce...
 - i mimina se můžou naučit Ruby! je to fakt jednoduchý!
 - class << self!
 
