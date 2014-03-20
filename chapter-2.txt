@@ -8,6 +8,6 @@ Dělejte, že jste právě otevřeli tuto knihu (ačkoliv už jste tuto knihu _p
 Takže teď se tváříte tak nějak jako "Hej, v týhle knížce je přibalená cibule!" (I když zrovna moc nemáte rádi cibule,
  tak jsem si jistý, že oceníte logistiku doručení něčeho diskrétního v údajném manuálu k programování.)
 
-A pak se sami sebe zeptáte, "Momemnt. Myslel jsem, že tohle je knížka o Ruby, o novém, neuvěřitelném programovacím 
+A pak se sami sebe zeptáte, "Moment. Myslel jsem, že tohle je knížka o Ruby, o novém, neuvěřitelném programovacím 
 jayzyku pochazejícím z Japonska. A i když dokážu ocenit logistiku doručení něčeho diskrétního v údajném manuálu 
 k programování: Proč zrovna cibule? Co s ní mám dělat?"
