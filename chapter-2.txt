@@ -11,3 +11,12 @@ Takže teď se tváříte tak nějak jako "Hej, v týhle knížce je přibalená
 A pak se sami sebe zeptáte, "Moment. Myslel jsem, že tohle je knížka o Ruby, o novém, neuvěřitelném programovacím 
 jazyku pochazejícím z Japonska. A i když dokážu ocenit logistiku doručení něčeho diskrétního v údajném manuálu 
 k programování: Proč zrovna cibule? Co s ní mám dělat?"
+
+Ne. Vlastně se s tím vůbec netrapte. Nemusíte dělat nic s cibulí. Dejte cibuli pryč a ať ona udělá něco s vámi.
+
+Budu k vám upřímný. Chci abyste plakali. Zlehka skuhrali. Tohle je *důvtipná* příručka k Ruby. To znamená - kód 
+tak krásný, že budete ronit slzy. To znamená - chrabré příběhy a ponuré pravdy, které vás chtě nechtě vzbudí 
+příští ráno v náruči této knihy. Tisknouce se k vám pevně po celý den. Bude nejspíš nevyhnutelné, vytvořit 
+si potřebné pouzdříčko pro _Whyova důvtipnou přiručku k Ruby_, takže budete moci stále cítit její něžnou blízkost.
+
+Fakt musíte aspoň vzlyknout. Nebo aspoň usmrknout. A pokud ne, tak vám k tomu pomůže ta cibule.  
